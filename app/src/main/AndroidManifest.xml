@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".relative1" />
+        <activity android:name=".Linear1"></activity>
     </application>
 
 </manifest>

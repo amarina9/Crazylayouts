@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Crazylayouts</string>
+
+    <string-array name="lista_estado_civil">
+        <item>Soltero</item>
+        <item>Casado</item>
+    </string-array>
+
+
+    <string-array name="lista_cargo">
+        <item>Ventas</item>
+        <item>Informatica</item>
+        <item>Jardineria</item>
+
+    </string-array>
+
+
 </resources>
